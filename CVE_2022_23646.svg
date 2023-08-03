@@ -1,0 +1,5 @@
+<svg>
+  <script>
+    alert("test");
+  </script>
+</svg>
